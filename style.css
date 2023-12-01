@@ -1,0 +1,25 @@
+body{
+    background:linear-gradient(#42f56c 10%, #f5427b 20%);
+}
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.image{
+    width: 48%;
+    border: solid 3px blue;
+    margin: 10px;
+    border-radius: 10px;
+    border-bottom: 10px;
+    margin-bottom: 10px;
+}
+img{
+    max-width: 50%;
+}
+h6{
+    color: black;
+    font-size: 100px;
+    font-style: initial;
+   
+}
